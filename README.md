@@ -1,6 +1,6 @@
 # [Flask Dashboard Atlantis PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-pro)
 
-**Commercial product** - Flask **Dashboard** coded on top of **Atlantis Dark PRO** crafted by ThemeKita. **Features**:
+**Commercial product** - Flask **Dashboard** coded on top of **Atlantis PRO** crafted by ThemeKita. **Features**:
 
 - SQLite, PostgreSQL
 - SQLAlchemy ORM, Alembic (for db schema migration)
